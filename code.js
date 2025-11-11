@@ -1,7 +1,7 @@
 // --- 1. CONFIGURATION ---
 // PASTE YOUR DEPLOYED FASTAPI SERVER URL HERE
 // It must end with /audit-doc
-const API_ENDPOINT = "https://mcq-auditor-google-sheets.onrender.com/audit-doc"; // <-- CHANGE THIS
+const API_ENDPOINT = ""; // <-- CHANGE THIS
 
 // --- 2. ADD CUSTOM MENU ON OPEN ---
 function onOpen() {
